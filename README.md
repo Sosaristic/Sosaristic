@@ -1,6 +1,6 @@
 # Hey, I'm Sunday Omena Anderson 👋
 
-Full-stack developer based in Lagos, Nigeria — specialising in React, React Native, and Next.js. I build web and mobile products end-to-end, from UI through to backend APIs and store deployment.
+Full-stack developer based in , Nigeria — specialising in React, React Native, and Next.js. I build web and mobile products end-to-end, from UI through to backend APIs and store deployment.nugu
 
 Currently working at **Xavier Paisley**, where I've shipped multiple live products across health insurance, fuel delivery, and real estate. I also build my own products on the side.
 
