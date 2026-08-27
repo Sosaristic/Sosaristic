@@ -1,6 +1,6 @@
 # Hey, I'm Sunday Omena Anderson 👋
 
-Full-stack developer based in Enugu, Nigeria. I build and ship web and mobile products end-to-end — React and React Native on the front, NestJS APIs on the back, and the servers they run on.
+Full-stack developer based in Enugu, Nigeria. I build and ship web and mobile products end-to-end  React and React Native on the front, NestJS APIs on the back, and the servers they run on.
 
 Currently at **Xavier Paisley**, where I've shipped live products across health insurance, fuel delivery, and real estate. On the side I build, ship, and operate my own — including [PitchPlay](https://pitchplay24.com), a live football competition management SaaS.
 
@@ -35,7 +35,7 @@ The fan side is open — no login needed. If you want to see the organizer side,
 |---|---|---|---|
 | [ScoutMate](https://scoutmate.pro) | Pitch-booking platform — players find and book synthetic pitches, organise matches among themselves, and pay for the slot | Rebuilt the backend and took the app through to store release | 📱 On Google Play · iOS in review |
 
-Brought in to get a stalled mobile app out the door. I revamped the NestJS backend and re-deployed the stack — API, MongoDB, and Redis in Docker Compose on a Hetzner VPS I provision and maintain, with uploads offloaded to S3 — then handled the Google Play and App Store submissions end to end.
+Brought in to get a stalled mobile app out the door. I revamped the NestJS backend and re-deployed the stack API, MongoDB, and Redis in Docker Compose on a Hetzner VPS I provision and maintain, with uploads offloaded to S3 then handled the Google Play and App Store submissions end to end.
 
 ---
 
@@ -59,7 +59,7 @@ Paystack (including Dedicated Virtual Accounts & Transfers) · Stripe webhooks
 
 I don't hand my apps off to a platform and hope for the best. I run them.
 
-- Provision and harden Linux VPSs myself — SSH key management, firewall rules, dedicated deploy users, no control panel in between.
+- Provision and harden Linux VPSs myself  SSH key management, firewall rules, dedicated deploy users, no control panel in between.
 - Run multi-service stacks in Docker Compose: NestJS API, self-hosted PostgreSQL or MongoDB, and Redis, with data on attached volumes and uploads offloaded to S3.
 - Host multiple products off shared database infrastructure, each with its own isolated database.
 - Ship on push with GitHub Actions, behind Cloudflare DNS and SSL.
