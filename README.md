@@ -1,6 +1,6 @@
 # Hey, I'm Sunday Omena Anderson 👋
 
-Full-stack developer based in Enugu, Nigeria. I build and ship web and mobile products end-to-end  React and React Native on the front, NestJS APIs on the back, and the servers they run on.
+I build and ship web and mobile products end-to-end  React and React Native on the front, NestJS APIs on the back, and the servers they run on.
 
 Currently at **Xavier Paisley**, where I've shipped live products across health insurance, fuel delivery, and real estate. On the side I build, ship, and operate my own — including [PitchPlay](https://pitchplay24.com), a live football competition management SaaS.
 
@@ -25,7 +25,6 @@ The fan side is open — no login needed. If you want to see the organizer side,
 | [RentSell](https://rentsell.net) | Verified real estate brokerage platform | Next.js · Supabase · Sanity | ✅ Live |
 | [HealthSure](https://app.healthsure.co) | Health insurance & HMO access platform | React · TypeScript | ✅ Live |
 | [FuelRescue](https://fuel-rescue.com) | On-demand fuel delivery app + admin dashboard | React Native · NestJS · PostgreSQL · Docker | ✅ On stores |
-| Homie | Property management app (landlords, agents, tenants, inspectors) | React Native | 🔨 Launching soon |
 
 ---
 
@@ -33,7 +32,7 @@ The fan side is open — no login needed. If you want to see the organizer side,
 
 | Product | What it is | What I did | Status |
 |---|---|---|---|
-| [ScoutMate](https://scoutmate.pro) | Pitch-booking platform — players find and book synthetic pitches, organise matches among themselves, and pay for the slot | Rebuilt the backend and took the app through to store release | 📱 On Google Play · iOS in review |
+| [ScoutMate](https://scoutmate.pro) | Pitch-booking platform — players find and book synthetic pitches, organise matches among themselves, and pay for the slot | Rebuilt the backend and took the app through to store release | ✅ Live on Google Play & App Store |
 
 Brought in to get a stalled mobile app out the door. I revamped the NestJS backend and re-deployed the stack API, MongoDB, and Redis in Docker Compose on a Hetzner VPS I provision and maintain, with uploads offloaded to S3 then handled the Google Play and App Store submissions end to end.
 
