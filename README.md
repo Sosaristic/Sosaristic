@@ -2,6 +2,8 @@
 
 I build and ship web and mobile products end-to-end  React and React Native on the front, NestJS APIs on the back, and the servers they run on.
 
+- Resume: [Download PDF](https://github.com/Sosaristic/Sosaristic/raw/main/Sunday_Omena_Anderson_Resume.pdf)
+
 Currently at **Xavier Paisley**, where I've shipped live products across health insurance, fuel delivery, and real estate. On the side I build, ship, and operate my own — including [PitchPlay](https://pitchplay24.com), a live football competition management SaaS.
 
 ---
